@@ -7,3 +7,6 @@
 [submodule "bundle/pydiction"]
 	path = bundle/pydiction
 	url = git://github.com/rkulla/pydiction.git
+[submodule "bundle/c.vim"]
+	path = bundle/c.vim
+	url = git://github.com/vim-scripts/c.vim.git
