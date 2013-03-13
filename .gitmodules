@@ -13,3 +13,6 @@
 [submodule "bundle/jellybeans"]
 	path = bundle/jellybeans
 	url = git://github.com/nanotech/jellybeans.vim.git
+[submodule "bundle/zencoding-vim"]
+	path = bundle/zencoding-vim
+	url = git://github.com/mattn/zencoding-vim.git
