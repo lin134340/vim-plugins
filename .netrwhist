@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/chao/workspace-soft'
+let g:netrw_dirhist_2='/home/chao/workspace-soft/py'
+let g:netrw_dirhist_3='/home/chao/workspace-soft'
+let g:netrw_dirhist_4='/home/chao/workspace-soft/py'
+let g:netrw_dirhist_5='/home/chao/workspace-soft'
+let g:netrw_dirhist_6='/home/chao/workspace-soft/py'
